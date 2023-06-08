@@ -18,4 +18,5 @@
 - ### HDInsight (Hive and Pig scripting)
 - ### Databrics (PySpark and SparkSQL)
 
-
+## Parameters Flow within Pipeline
+- ### Pipeline -> Dataset(maps the data pulled from linked service, for source and sink) -> Linked Service (forms a connection to the source and sink)
