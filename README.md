@@ -8,6 +8,14 @@
 - ### European Centre for Disease Prevention and Control (ECDC)
 - ### Eurostat Website
 
+## Storage Solutions
+- ### Azure Blob storage (population data)
+- ### Azure Data Lake Gen2 (processed data)
+- ### MySQL DB (reporting)
 
+## Transformation Tools
+- ### Azure Data Flow (simple transformation and code free)
+- ### HDInsight (Hive and Pig scripting)
+- ### Databrics (PySpark and SparkSQL)
 
 
