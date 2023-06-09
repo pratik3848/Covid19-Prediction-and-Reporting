@@ -20,3 +20,11 @@
 
 ## Parameters Flow within Pipeline
 - ### Trigger -> Pipeline -> Dataset(maps the data pulled from linked service, for source and sink) -> Linked Service (forms a connection to the source and sink)
+
+## Triggers Used
+- ### Event Based Trigger
+- ### Schedule Trigger
+
+## Data Orchestration
+- ### 1. Ingest and Process Population Data using 1 Parent Pipeline
+- ###
