@@ -26,5 +26,5 @@
 - ### Schedule Trigger
 
 ## Data Orchestration
-- ### 1. Ingest and Process Population Data using 1 Parent Pipeline
-- ###
+- ### Ingest and Process Population Data using Parent Pipeline based on Event Based Trigger
+- ### Ingest and Process ECDC Data using Dependency based Tumbling Window Trigger
