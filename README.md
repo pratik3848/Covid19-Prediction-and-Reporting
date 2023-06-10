@@ -1,5 +1,5 @@
-# Covid19-Prediction-and-Reporting
-![image](https://github.com/pratik3848/Covid19-Prediction-and-Reporting/assets/41427089/069a28f7-e09c-4a88-8e4c-82abfcc0986c)
+# Covid19-Prediction-and-Reporting Pipeline
+
 
 ## Solution Architecture
 ![image](https://github.com/pratik3848/Covid19-Prediction-and-Reporting/assets/41427089/c166f32e-e284-414d-9ece-bc07a09f9d33)
@@ -28,3 +28,7 @@
 ## Data Orchestration
 - ### Ingest and Process Population Data using Parent Pipeline based on Event Based Trigger
 - ### Ingest and Process ECDC Data using Dependency based Tumbling Window Trigger
+
+## Pipeline Monitoring
+- ### Azure Data Factory Monitor (pipeline and trigger failure alerts)
+- ### Azure Monitor
