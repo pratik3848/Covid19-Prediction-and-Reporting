@@ -1,4 +1,4 @@
-# Covid19-Prediction-and-Reporting Pipeline
+# Covid19 Prediction and Reporting Pipeline
 
 
 ## Solution Architecture
@@ -30,5 +30,5 @@
 - ### Ingest and Process ECDC Data using Dependency based Tumbling Window Trigger
 
 ## Pipeline Monitoring
-- ### Azure Data Factory Monitor (pipeline and trigger failure alerts)
-- ### Azure Monitor
+- ### Azure Data Factory Monitor (pipeline and trigger failure alerts for the last 45 day runs)
+- ### Azure Monitor (store the logs for analysis)
