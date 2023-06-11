@@ -32,3 +32,10 @@
 ## Pipeline Monitoring
 - ### Azure Data Factory Monitor (pipeline and trigger failure alerts for the last 45 day runs)
 - ### Azure Monitor (store the logs for analysis)
+
+## Continuous Integration/Continuous Delivery (CI/CD)
+ - ### Azure DevOps
+ - ### 3 ADF pipelines - 
+ - #### DEV - GIT enabled 
+ - #### TEST
+ - #### PROD
