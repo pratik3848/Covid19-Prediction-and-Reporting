@@ -35,7 +35,4 @@
 
 ## Continuous Integration/Continuous Delivery (CI/CD)
  - ### Azure DevOps
- - ### 3 ADF pipelines - 
- - #### DEV - GIT enabled 
- - #### TEST
- - #### PROD
+
