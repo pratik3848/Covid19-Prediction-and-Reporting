@@ -36,3 +36,11 @@
 ## Continuous Integration/Continuous Delivery (CI/CD)
  - ### Azure DevOps
 
+## Data Visualization
+### PowerBI
+
+## Final Reports
+![image](https://github.com/pratik3848/Covid19-Prediction-and-Reporting/assets/41427089/18b10671-c1b8-43ba-b8a3-0f61132966b6)
+![image](https://github.com/pratik3848/Covid19-Prediction-and-Reporting/assets/41427089/d35fa1f7-ff47-4523-b61d-e59bd6c2007c)
+![image](https://github.com/pratik3848/Covid19-Prediction-and-Reporting/assets/41427089/763d0df9-6273-4e98-9e4e-dbdcdbd8fa67)
+
