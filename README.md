@@ -15,7 +15,6 @@
 
 ## Transformation Tools
 - ### Azure Data Flow (simple transformation and code free)
-- ### HDInsight (Hive and Pig scripting)
 - ### Databrics (PySpark and SparkSQL)
 
 ## Parameters Flow within Pipeline
